@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saideepreddy7781&label=Profile%20views&color=2ce614&style=flat-square" alt="saideepreddy7781" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saideepreddy7781" alt="saideepreddy7781" /></a> </p>
 
 - 📫 How to reach me **workmsdr@gmail.com**
 
